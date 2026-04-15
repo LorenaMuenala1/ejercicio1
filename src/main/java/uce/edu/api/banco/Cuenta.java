@@ -5,6 +5,7 @@ public class Cuenta {
     private String cedula;
     private String correo;
     private double saldo;
+    private double montoTotal;
 
     public Cuenta() {}
 
